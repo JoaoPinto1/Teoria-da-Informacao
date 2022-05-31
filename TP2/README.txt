@@ -1,0 +1,1 @@
+Apenas será necessário fazer input do nome do ficheiro (ou caminho).
